@@ -1,23 +1,7 @@
-- title: Documentation
+- title: Base de Conhecimento
   url: docs
   links:
-    - title: "Getting Started"
+    - title: "Visão Geral"
       url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "About"
+    - title: "Sobre"
       url: "about"
-    - title: "News"
-      url: "news"
-- title: "Extras"
-  url: "docs/extras"
-  links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
