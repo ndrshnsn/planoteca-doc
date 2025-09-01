@@ -26,7 +26,8 @@ jobs:
 
     - name: Deploy to server
       run: |
-        ssh -o StrictHostKeyChecking=no ${{ env.DEPLOY_USR }}@${{ env.DEPOLOY_SRV }}:${{ env.DEPLOY_PRT }} << 'EOF'
+        ssh -o StrictHostKeyChecking=no -p ${{ env.DEPLOY_PRT }} \
+        ${{ env.DEPLOY_USR }}@${{ env.DEPOLOY_SRV }} << 'EOF'
         cd /srv/planoteca-doc || exit 1
         git fetch origin main
         git reset --hard origin/main
@@ -35,4 +36,3 @@ jobs:
         docker compose up -d
         docker system prune -af
         EOF
-        
