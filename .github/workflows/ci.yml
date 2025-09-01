@@ -18,3 +18,22 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+
+    - name: Checkout code
+        uses: actions/checkout@v4
+
+    - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+            ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY_HOSTINGER }}
+
+    - name: Deploy to server
+        run: |
+            ssh -o StrictHostKeyChecking=no ${{ env.DEPLOY_USR }}@${{ env.DEPOLOY_SRV }} -p ${{ env.DEPLOY_PRT }} << 'EOF'
+            cd /srv/planoteca-doc || exit 1
+            git pull origin main
+            docker compose pull
+            docker compose build --no-cache
+            docker compose up -d
+            docker system prune -af
+            EOF

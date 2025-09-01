@@ -6,7 +6,7 @@ services:
     image: jekyll/jekyll:3.8
     volumes: 
       - "./:/srv/jekyll"
-      - "./vendor/bundle:/usr/local/bundle"
+      # - "./vendor/bundle:/usr/local/bundle"
       # remove "./vendor/bundle:/usr/local/bundle" volume when deploying in production
     ports: 
       - "4000:4000"
