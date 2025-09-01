@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 source 'https://rubygems.org'
 ruby RUBY_VERSION
 
@@ -20,4 +21,3 @@ ruby RUBY_VERSION
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-postcss'
 gem 'webrick'
-
