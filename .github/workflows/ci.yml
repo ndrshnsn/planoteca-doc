@@ -26,7 +26,7 @@ jobs:
 
     - name: Deploy to server
       run: |
-        ssh -o StrictHostKeyChecking=no ${{ env.DEPLOY_USR }}@${{ env.DEPOLOY_SRV }} -p ${{ env.DEPLOY_PRT }} << 'EOF'
+        ssh -o StrictHostKeyChecking=no ${{ env.DEPLOY_USR }}@${{ env.DEPOLOY_SRV }}:${{ env.DEPLOY_PRT }} << 'EOF'
         cd /srv/planoteca-doc || exit 1
         git fetch origin main
         git reset --hard origin/main
