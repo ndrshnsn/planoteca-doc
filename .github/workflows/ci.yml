@@ -35,3 +35,4 @@ jobs:
         docker compose up -d
         docker system prune -af
         EOF
+        
