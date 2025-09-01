@@ -22,8 +22,8 @@ module.exports = {
       },
       extend: {
         fontFamily: {
-          poppins: ['Poppins', ...defaultTheme.fontFamily.sans],
-          inter: ['Inter var', ...defaultTheme.fontFamily.sans]
+            Lato: ['Lato', ...defaultTheme.fontFamily.sans],
+            Merriweather: ['Merriweather', ...defaultTheme.fontFamily.sans]
         },
         colors: {
           'primary':    '#4f7369',
