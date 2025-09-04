@@ -8,29 +8,43 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        - name: Build the site in the jekyll/builder container
+          uses: actions/checkout@v4
 
-    - name: Deploy to server
-      uses: appleboy/ssh-action@v1.0.0
-      with:
-        host: ${{ secrets.SSH_HOST }}
-        username: ${{ secrets.SSH_USER }}
-        key: ${{ secrets.SSH_PRIVATE_KEY_HOSTINGER }}
-        port: ${{ secrets.SSH_PORT }}
-        script: |
-            cd /srv/planoteca-doc || exit 1
-            git fetch origin main
-            git reset --hard origin/main
-            docker compose pull
-            docker compose build --no-cache
-            docker compose up -d
-            docker system prune -af
+        - name: Log in to private registry
+          run: echo "${{ secrets.REGISTRY_PASSWORD }}" | docker login ${{ secrets.REGISTRY_HOST }} -u ${{ secrets.REGISTRY_USER }} --password-stdin
+
+        - name: Build image
+          run: |
+            IMAGE_TAG=${GITHUB_SHA::7}
+            docker build -t ${{ secrets.REGISTRY_HOST }}/jekyll:$IMAGE_TAG -t ${{ secrets.REGISTRY_HOST }}/jekyll:latest .
+
+        - name: Push image
+          run: |
+            IMAGE_TAG=${GITHUB_SHA::7}
+            docker push ${{ secrets.REGISTRY_HOST }}/jekyll:$IMAGE_TAG
+            docker push ${{ secrets.REGISTRY_HOST }}/jekyll:latest
+
+        - name: Deploy on VPS
+          uses: appleboy/ssh-action@v1.0.3
+          with:
+            host: ${{ secrets.VPS_HOST }}
+            username: ${{ secrets.VPS_USER }}
+            key: ${{ secrets.VPS_SSH_KEY }}
+            script: |
+              set -e
+              IMAGE_TAG=${GITHUB_SHA::7}
+
+              docker login ${{ secrets.REGISTRY_HOST }} -u ${{ secrets.REGISTRY_USER }} -p ${{ secrets.REGISTRY_PASSWORD }}
+
+              cd /srv/app
+
+              # Update compose with new tag
+              sed -i "s|jekyll:.*|jekyll:${IMAGE_TAG}|g" docker-compose.yml
+
+              docker compose pull
+              docker compose up -d
+              docker system prune -af --volumes
+
