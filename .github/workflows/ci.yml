@@ -45,6 +45,6 @@ jobs:
               sed -i "s|/jekyll:.*|/jekyll:${IMAGE_TAG}|g" docker-compose.yml
 
               docker compose pull
-              docker compose up -d
+              docker compose up jekyll -d
               docker system prune -af --volumes
 
