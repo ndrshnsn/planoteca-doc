@@ -17,6 +17,4 @@ Chaning TEXT TO MAE IT HAPPEN AFTER DOCKERIZED VERSION [open an issue](https://w
 
 Now this will start to become interesting. 
 
-LETS SEE 
-
-NOW STARTING WITH LATEST VERSION
+GOOOOOOOOOOOOOOO
