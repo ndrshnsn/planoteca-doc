@@ -42,7 +42,7 @@ jobs:
               cd /srv/app
 
               # Update compose with new tag
-              sed -i "s|jekyll:.*|jekyll:${IMAGE_TAG}|g" docker-compose.yml
+              sed -i "s|/jekyll:.*|/jekyll:${IMAGE_TAG}|g" docker-compose.yml
 
               docker compose pull
               docker compose up -d
