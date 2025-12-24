@@ -1,31 +1,30 @@
 title: planoteca
 email: admin@planoteca.com.br
 author: Andreas Hansen
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+tagline: "planoteca :: Ilumine sua Aula, Simplifique seu Planejamento"
+description: "A Planoteca é um marketplace de planos de aula que apoia educadores no processo de criação de conteúdo pedagógico, oferecendo materiais prontos, práticos e alinhados à rotina escolar."
 
 url: "https://doc.planoteca.com.br"
 baseurl: ""
-keywords: "planoteca ajuda documentacao help knowledgebase faq"
+keywords: "planoteca plano-de-aula marketplace ajuda documentacao help knowledgebase faq suporte"
 add_permalinks: true
 twitter: planoteca
 support: https://suporte.planoteca.com.br
-repo: https://github.com/ndrshnsn/planoteca-docs
+repo: https://github.com/ndrshnsn/planoteca-doc
 github_user: ndrshnsn
 github_repo: planoteca-doc
 logo: assets/img/logo/planoteca_doc.png
 github_branch: main
 badge_rounded: true
 markdown: kramdown
+locale: pt_BR
 highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
-tag_color: primary # danger, success, warning, primary, info, secondary
-fixedNav: 'true' # true or false
+tag_color: primary
+fixedNav: 'true'
 permalink: /:title/
 
 collections:
@@ -51,18 +50,18 @@ seo:
   organization:
     name: "planoteca"
     logo: "assets/img/logo/planoteca_doc.png"
-    url: "https://doc.planoteca.com.br"
+    url: ""
 
   default_og_image: assets/img/logo/planoteca_doc.png
-  twitter_card: assets/img/logo/planoteca_doc.png
+  twitter_card: summary
   twitter_username: "planoteca"
   facebook_app_id: "123456789"
   social:
-    name: "Planoteca"
+    name: "planoteca"
     links:
       - "https://twitter.com/planoteca"
       - "https://facebook.com/planoteca"
-      - "https://instagram.com/planoteca"
+      - "https://instagram.com/planoteca.oficial"
 
 postcss:
   cache: false

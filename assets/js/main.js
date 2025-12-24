@@ -8,7 +8,7 @@ $(document).ready(function() {
          return
      }
      var query = $(this).val();
-     var searchPage = "{{ site.url }}{{ site.baseurl }}/search/?q=" + query;
+     var searchPage = "{{ site.url }}/pesquisa/?q=" + query;
      document.location = searchPage;
      return false;
    });
