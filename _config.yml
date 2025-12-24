@@ -25,7 +25,6 @@ kramdown:
   syntax_highlighter: rouge
 tag_color: primary
 fixedNav: 'true'
-permalink: /:title/
 
 collections:
   docs:
@@ -50,7 +49,7 @@ seo:
   organization:
     name: "planoteca"
     logo: "assets/img/logo/planoteca_doc.png"
-    url: ""
+    url: "https://planoteca.com.br"
 
   default_og_image: assets/img/logo/planoteca_doc.png
   twitter_card: summary
