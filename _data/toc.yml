@@ -1,5 +1,5 @@
 - title: "Sobre o marketplace"
-  url: /
+  url: "a-planoteca/visao-geral"
   links:
   - title: "Visão geral"
     url: "a-planoteca/visao-geral"
@@ -9,7 +9,7 @@
     url: "a-planoteca/beneficios"
 
 - title: "Para compradores"
-  url: /
+  url: "compradores/criar-conta"
   links:
   - title: "Criar conta"
     url: "compradores/criar-conta"
@@ -25,7 +25,7 @@
     url: "compradores/contato-vendedor"
 
 - title: "Para vendedores"
-  url: /
+  url: "vendedores/criar-conta"
   links:
   - title: "Criar conta de vendedor"
     url: "vendedores/criar-conta"
@@ -41,7 +41,7 @@
     url: "vendedores/dicas-vender"
 
 - title: "Perguntas frequentes (FAQ)"
-  url: /
+  url: "faq/esqueci-senha"
   links:
   - title: "Esqueci minha senha"
     url: "faq/esqueci-senha"
@@ -55,7 +55,7 @@
     url: "faq/comprovantes"
 
 - title: "Políticas e regras"
-  url: /
+  url: "politicas/termos-uso"
   links:
   - title: "Termos de uso"
     url: "politicas/termos-uso"
@@ -71,7 +71,7 @@
     url: "politicas/devolucao-reembolso"
 
 - title: "Suporte"
-  url: /
+  url: "suporte/canais-de-atendimento"
   links:
   - title: "Canais de atendimento"
     url: "suporte/canais-de-atendimento"
