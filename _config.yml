@@ -39,6 +39,7 @@ plugins:
   - jekyll-sitemap
 
 sitemap:
+  host: "https://doc.planoteca.com.br"
   exclude:
     - "/404.html"
   changefreq: "weekly"
