@@ -8,13 +8,13 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: ""
 url: "https://doc.planoteca.com.br"
-keywords: "planoteca ajuda help knowledgebase faq"
+keywords: "planoteca ajuda documentacao help knowledgebase faq"
 add_permalinks: true
 twitter: planoteca
 support: https://suporte.planoteca.com.br
 repo: https://github.com/ndrshnsn/planoteca-docs
 github_user: ndrshnsn
-github_repo: planoteca-docs
+github_repo: planoteca-doc
 logo: assets/img/logo/planoteca_doc.png
 github_branch: main
 badge_rounded: true
@@ -37,6 +37,13 @@ plugins:
   - jekyll-postcss
   - jekyll-seo-tag
   - jekyll-sitemap
+
+sitemap:
+  exclude:
+    - "/404.html"
+  changefreq: "weekly"
+  priority: 0.5
+  include_posts: true
 
 postcss:
   cache: false
