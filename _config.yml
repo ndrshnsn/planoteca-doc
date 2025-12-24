@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 baseurl: ""
-url: "https://docs.planoteca.com.br" # the base hostname & protocol for your site
+url: "https://doc.planoteca.com.br"
 keywords: "planoteca ajuda help knowledgebase faq"
 add_permalinks: true
 twitter: planoteca
@@ -26,36 +26,17 @@ kramdown:
   syntax_highlighter: rouge
 tag_color: primary # danger, success, warning, primary, info, secondary
 fixedNav: 'true' # true or false
-permalink: /:year/:title/
+permalink: /:title/
 
-# Collections
 collections:
   docs:
     output: true
     permalink: /:collection/:path
 
-# Defaults
-defaults:
-  - scope:
-      path: "_docs"
-      type: "docs"
-    values:
-      layout: page
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "posts"
-      type: "posts"
-    values:
-      layout: "post"
-
 plugins:
   - jekyll-postcss
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 postcss:
   cache: false

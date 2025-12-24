@@ -1,7 +1,79 @@
-- title: Base de Conhecimento
-  url: docs
+- title: "Sobre o marketplace"
+  url: /
   links:
-    - title: "Visão Geral"
-      url: "docs/getting-started"
-    - title: "Sobre"
-      url: "about"
+  - title: "Visão geral"
+    url: "a-planoteca/visao-geral"
+  - title: "Quem pode usar"
+    url: "a-planoteca/quem-pode-usar"
+  - title: "Benefícios"
+    url: "a-planoteca/beneficios"
+
+- title: "Para compradores"
+  url: /
+  links:
+  - title: "Criar conta"
+    url: "compradores/criar-conta"
+  - title: "Navegar e buscar planos"
+    url: "compradores/navegar-buscar"
+  - title: "Carrinho e compra"
+    url: "compradores/carrinho-compra"
+  - title: "Formas de pagamento"
+    url: "compradores/formas-pagamento"
+  - title: "Acompanhar pedidos"
+    url: "compradores/acompanhar-pedidos"
+  - title: "Contato com o vendedor"
+    url: "compradores/contato-vendedor"
+
+- title: "Para vendedores"
+  url: /
+  links:
+  - title: "Criar conta de vendedor"
+    url: "vendedores/criar-conta"
+  - title: "Cadastrar planos"
+    url: "vendedores/cadastrar-planos"
+  - title: "Regras de descrição e preço"
+    url: "vendedores/regras-descricao-preco"
+  - title: "Gerenciar pedidos"
+    url: "vendedores/gerenciar-pedidos"
+  - title: "Receber pagamentos"
+    url: "vendedores/receber-pagamentos"
+  - title: "Dicas para vender mais"
+    url: "vendedores/dicas-vender"
+
+- title: "Perguntas frequentes (FAQ)"
+  url: /
+  links:
+  - title: "Esqueci minha senha"
+    url: "faq/esqueci-senha"
+  - title: "Cancelamento de pedido"
+    url: "faq/cancelamento-pedido"
+  - title: "Solicitar reembolso"
+    url: "faq/solicitar-reembolso"
+  - title: "Alterar dados pessoais"
+    url: "faq/alterar-dados"
+  - title: "Comprovantes"
+    url: "faq/comprovantes"
+
+- title: "Políticas e regras"
+  url: /
+  links:
+  - title: "Termos de uso"
+    url: "politicas/termos-uso"
+  - title: "Privacidade"
+    url: "politicas/privacidade"
+  - title: "Cookies"
+    url: "politicas/cookies"
+  - title: "Regras para compradores"
+    url: "politicas/regras-compradores"
+  - title: "Regras para vendedores"
+    url: "politicas/regras-vendedores"
+  - title: "Devolução e reembolso"
+    url: "politicas/devolucao-reembolso"
+
+- title: "Suporte"
+  url: /
+  links:
+  - title: "Canais de atendimento"
+    url: "suporte/canais-de-atendimento"
+  - title: "Redes Sociais"
+    url: "suporte/redes-sociais"

@@ -205,11 +205,11 @@
       line-height: 1.75rem
   }
   
-  .docs article img {
+  /* .docs article img {
       margin: 3.5rem auto;
       max-width: 100%
   }
-  
+   */
   .after\:hash:after {
       content: "#"
   }

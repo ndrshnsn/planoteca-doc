@@ -21,3 +21,6 @@ ruby RUBY_VERSION
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-postcss'
 gem 'webrick'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'faraday-retry'

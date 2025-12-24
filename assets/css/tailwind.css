@@ -1206,7 +1206,7 @@ blockquote span{
 }
 
 .docs article img {
-  margin: 3.5rem auto;
+  /* margin: 3.5rem auto; */
   max-width: 100%
 }
 
