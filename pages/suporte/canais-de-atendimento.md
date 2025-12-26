@@ -1,26 +1,48 @@
 ---
-title: Canais de atendimento
+title: Canais de Atendimento da Planoteca – Suporte para Educadores
+description: Conheça todos os canais de atendimento da Planoteca. Saiba como entrar em contato por e-mail, WhatsApp e outros meios para suporte rápido.
 permalink: /suporte/canais-de-atendimento/
 ---
 
-A Planoteca oferece diferentes formas de suporte para garantir que você receba ajuda rápida e eficiente sempre que precisar.
+# Canais de Atendimento da Planoteca
 
-### E-mail
-- Para dúvidas gerais: [contato@planoteca.com.br](mailto:contato@planoteca.com.br)  
-- Para questões de privacidade ou dados pessoais: [suporte@planoteca.com.br](mailto:suporte@planoteca.com.br)  
+A Planoteca oferece diferentes formas de suporte para garantir que você receba ajuda **rápida, personalizada e eficiente** sempre que precisar. Conheça nossos canais de atendimento e escolha o que melhor se adequa à sua necessidade.
 
-### Telefone
-- Atendimento via Whatsapp em horários específicos (ver abaixo).  
-- Fornece orientação direta e esclarecimento de dúvidas complexas.
+## Formas de Contato Disponíveis
 
-### Horário de Funcionamento
-- Segunda a sexta-feira: 9h às 18h  
-- Sábado, domingo e feriados: atendimento apenas por e-mail ou chat.
+### 📧 Atendimento por E-mail
+- **Dúvidas gerais:** [contato@planoteca.com.br](mailto:contato@planoteca.com.br)  
+  Para questões sobre uso da plataforma, navegação, compras e funcionalidades.
 
-### Tempo médio de resposta
-- E-mail: até 24 horas úteis
-- Telefone/WhatsApp: conforme disponibilidade da equipe
+- **Privacidade e dados pessoais:** [suporte@planoteca.com.br](mailto:suporte@planoteca.com.br)  
+  Específico para assuntos relacionados à LGPD, solicitações de dados e privacidade.
+
+### 📱 Atendimento por WhatsApp
+- **Suporte direto e personalizado** em horários específicos
+- **Orientação prática** para dúvidas complexas sobre a plataforma
+- **Resolução ágil** de questões técnicas e operacionais
+
+## Horário de Funcionamento do Atendimento
+
+### Dias Úteis (Segunda a Sexta-feira)
+- **Período:** 9h às 18h
+- **Canais disponíveis:** E-mail e WhatsApp
+
+### Finais de Semana e Feriados
+- **Atendimento por e-mail** com resposta no próximo dia útil
+- **Chat automático** para questões frequentes
+
+## Tempo Médio de Resposta
+- **📧 E-mail:** Até 24 horas úteis
+- **📱 WhatsApp:** Resposta imediata durante horário comercial (conforme disponibilidade da equipe)
+- **📋 Chat do site:** Respostas automáticas para questões frequentes
+
+## Dicas para um Atendimento Mais Eficiente
+1. **Descreva claramente** sua dúvida ou problema
+2. **Informe seu e-mail cadastrado** na Planoteca
+3. **Mencione o número do pedido** em caso de questões sobre compras
+4. **Anexe prints** quando for útil para entender a situação
 
 ---
 
-👉 Esses canais foram pensados para garantir que **todos os educadores tenham suporte rápido, seguro e eficiente** ao utilizar a Planoteca.
+👉 Nossos canais foram pensados para garantir que **todos os educadores tenham suporte ágil, seguro e humanizado** ao utilizar a Planoteca, facilitando sua experiência na plataforma de planos de aula.

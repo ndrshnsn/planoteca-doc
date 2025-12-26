@@ -1,25 +1,33 @@
 ---
-title: Criar conta
+title: Criar conta na Planoteca – Guia rápido para educadores
+description: Aprenda a criar sua conta de comprador na Planoteca em poucos passos. Cadastre-se com e-mail ou Google e comece a explorar planos de aula prontos.
 permalink: /compradores/criar-conta/
 ---
 
-Para começar a usar a Planoteca como comprador, o processo é simples e rápido:  
+# Como criar conta na Planoteca
 
-### Acesse a plataforma
+Para começar a usar a Planoteca como comprador, o processo é simples e rápido. Siga este passo a passo para criar sua conta:
+
+## 1. Acesse a plataforma
 Vá até o site da Planoteca e clique em [**Criar conta**](https://planoteca.com.br/novo-acesso).  
 
-### Preencha seus dados
-Informe os dados solicitados para criação da sua conta. Você também pode optar por se cadastrar usando sua conta do Google para mais praticidade. Mesmo que você entre utilizando a opção de login automático do Google você precisará preencher os dados iniciais para efetivar a criação da sua conta de usuário.  
-Siga as instruções na página e aguarde pelo recebimento do email de confirmação.
-<img src="/assets/img/criar-conta-01.png" alt="criar-conta-01" class="mx-auto border" />
+## 2. Preencha seus dados
+Informe os dados solicitados para a criação da sua conta. Você pode optar por se cadastrar usando sua conta do Google para mais praticidade. 
 
-### Confirme o cadastro
-Verifique seu e-mail e confirme a criação da conta. Esse passo é importante para garantir sua segurança. Caso não receba o email verifique a caixa de SPAM, alguns provedores podem mover os emails de forma automatizada.
-<img src="/assets/img/criar-conta-02.png" alt="criar-conta-02" class="mx-auto border" />
+> **Observação:** Mesmo utilizando o login automático do Google, será necessário completar algumas informações iniciais para finalizar a criação da conta.
 
-### Pronto!
-Agora você já pode navegar pela plataforma, explorar planos de aula e escolher os que melhor atendem às suas necessidades.  
+<img src="/assets/img/criar-conta-01.png" alt="Tela de criação de conta na Planoteca - preenchimento de dados" class="mx-auto border" />
+
+## 3. Confirme o cadastro
+Verifique seu e-mail e clique no link de confirmação para ativar sua conta. Essa etapa é essencial para garantir a segurança do seu acesso.
+
+> **Dica:** Caso não receba o e-mail, verifique a caixa de spam. Alguns provedores podem redirecionar mensagens automaticamente.
+
+<img src="/assets/img/criar-conta-02.png" alt="Tela de confirmação de e-mail na Planoteca" class="mx-auto border" />
+
+## 4. Pronto para começar!
+Agora você já pode navegar pela plataforma, explorar planos de aula e escolher os que melhor atendem às suas necessidades pedagógicas.  
 
 ---
 
-👉 Criar uma conta na Planoteca é o primeiro passo para ter acesso a uma biblioteca de planos de aula pensados por educadores como você.  
+👉 Criar uma conta na Planoteca é o primeiro passo para acessar uma **biblioteca diversificada de planos de aula**, criados por educadores para educadores.

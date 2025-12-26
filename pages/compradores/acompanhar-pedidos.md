@@ -1,28 +1,29 @@
 ---
-title: Acompanhar pedidos
+title: Acompanhar Pedidos na Planoteca
+description: Saiba como acompanhar seus pedidos na Planoteca, acessar downloads e manter seus planos de aula sempre disponíveis.
 permalink: /compradores/acompanhar-pedidos/
 ---
 
-Depois de realizar uma compra na Planoteca, você pode **acompanhar todos os detalhes do seu pedido** de forma simples e rápida.  
+Após realizar uma compra na **Planoteca**, você pode **acompanhar todos os detalhes do seu pedido** de forma simples, rápida e organizada.
 
 ### Área do usuário
-Acesse sua conta, clique no menu de usuário e em seguida em **Meus pedidos**.  
+Para acessar seus pedidos, entre na sua conta, clique no menu do usuário e selecione a opção **Meus pedidos**.
 
-### Pedidos
-Lá você verá todos os pedidos realizados, com informações como:  
-    - Data da compra  
-    - Nro do Pedido
-    - Título dos planos adquiridos  
-    - Valor
-    - Status do pagamento  
+### Histórico de pedidos
+Nessa área, você encontra a lista completa de compras realizadas, com informações como:
+- Data da compra  
+- Número do pedido  
+- Título dos planos de aula adquiridos  
+- Valor da compra  
+- Status do pagamento  
 
-### Download imediato
-Assim que o pagamento via Pix for confirmado, os planos ficam **disponíveis para download imediato** na área chamada **Arquivos**, também acessível no menu lateral do painel do usuário.  
+### Download imediato dos materiais
+Assim que o pagamento via **Pix** for confirmado, os planos de aula ficam **disponíveis para download imediato** na seção **Arquivos**, acessível pelo menu lateral do painel do usuário.
 
-### Histórico sempre disponível
-Mesmo depois de baixar, os materiais continuam salvos na sua conta.  
-Você pode acessar novamente sempre que precisar, sem limite de tempo.  
+### Acesso permanente
+Mesmo após realizar o download, seus materiais continuam salvos na sua conta.  
+Você pode acessá-los novamente sempre que precisar, **sem limite de tempo**.
 
 ---
 
-👉 Dessa forma, você tem **controle total sobre suas compras** e a tranquilidade de saber que seus planos estarão sempre à mão, organizados em um só lugar.
+👉 Dessa forma, a Planoteca garante **controle total sobre suas compras**, oferecendo segurança, organização e a tranquilidade de ter seus planos de aula sempre à mão.

@@ -1,27 +1,35 @@
 ---
-title: Carrinho e compra
+title: Carrinho e Compra de Planos de Aula
+description: Entenda como funciona o carrinho da Planoteca e como comprar planos de aula de forma simples, rápida e segura.
 permalink: /compradores/carrinho-compra/
 ---
 
-Na Planoteca, o processo de compra é simples e pensado para **facilitar a vida do educador**.  
-O carrinho funciona como uma sacola virtual, onde você pode **juntar diferentes planos de aula** antes de finalizar o pedido.  
+Na **Planoteca**, o processo de compra foi pensado para **facilitar a rotina do educador**.  
+O carrinho funciona como uma sacola virtual, permitindo que você **reúna diferentes planos de aula** antes de finalizar o pedido.
 
-### Como funciona:
+### Como funciona o carrinho de compras
 
-#### Adicionar ao carrinho
-Ao encontrar um plano interessante, clique em **Adicionar ao carrinho**.  
-Você pode continuar navegando e incluir quantos materiais quiser. Os materiais ficarão no carrinho mesmo que você não esteja autenticado com seu usuário, mas será necessário entrar com seu usuário ou criá-lo para finalizar sua compra. 
+#### Adicionar planos ao carrinho
+Ao encontrar um plano de aula interessante, clique em **Adicionar ao carrinho**.  
+Você pode continuar navegando e incluir quantos materiais quiser. Os itens permanecem no carrinho mesmo sem login, mas será necessário acessar sua conta ou criar um usuário para concluir a compra.
 
 #### Revisar antes de comprar
-No ícone do carrinho, você visualiza todos os planos selecionados, bem como pode adicionar mais licenças.
-É possível **remover itens** e verificar o valor total antes de prosseguir.  
+Ao clicar no ícone do carrinho, você visualiza todos os planos selecionados e pode:
+- Ajustar a quantidade de licenças;
+- Remover itens;
+- Conferir o valor total da compra antes de prosseguir.
 
 #### Finalizar a compra
-Clique em **Finalizar pedido**, confirme os dados e siga para o pagamento.
-Uma nova ordem de compra será criada e você será redirecionado para a página de pagamento com o QR Code para concluir sua compra.
+Clique em **Finalizar pedido**, confirme seus dados e avance para o pagamento.  
+Uma nova ordem de compra será criada e você será redirecionado para a página de pagamento com o **QR Code do Pix** para concluir a transação.
 
 #### Confirmação imediata
-Após o pagamento via Pix, você recebe um e-mail de confirmação com os detalhes da compra.
+Após a confirmação do pagamento, você recebe um **e-mail com os detalhes da compra**, garantindo mais segurança e transparência.
 
-#### Acesso rápido aos planos
-Os materiais ficam **disponíveis imediatamente na sua conta**, prontos para serem baixados, salvos e utilizados nas suas aulas. Dentro da sua conta você pode conferir suas compras passadas na seção "Compras" e seus materiais disponíveis para cópia na seção **Arquivos**, dentro do painel de sua conta.
+#### Acesso rápido aos planos adquiridos
+Os materiais ficam **disponíveis imediatamente na sua conta**, prontos para download e uso em sala de aula.  
+Você pode consultar compras anteriores na seção **Compras** e acessar seus arquivos disponíveis na seção **Arquivos**, dentro do painel do usuário.
+
+---
+
+👉 Assim, a Planoteca oferece uma experiência de compra **simples, segura e pensada para o educador**, do carrinho ao uso dos planos de aula.

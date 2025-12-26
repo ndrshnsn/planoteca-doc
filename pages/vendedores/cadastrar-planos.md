@@ -1,66 +1,79 @@
 ---
-title: Como cadastrar produtos/planos
+title: Como Cadastrar Planos de Aula na Planoteca – Guia para Vendedores
+description: Aprenda a cadastrar seus planos de aula na Planoteca. Guia completo com passo a passo para vendedores publicarem materiais educacionais com sucesso.
 permalink: /vendedores/cadastrar-planos/
 ---
 
-Depois de ativar sua conta de vendedor e ativar sua loja, você já pode **cadastrar seus planos de aula** na Planoteca e disponibilizá-los para outros educadores.
-Esse processo foi pensado para ser **simples, rápido e intuitivo**, garantindo que seus materiais sejam apresentados de forma clara e atrativa.
+# Como Cadastrar Planos de Aula na Planoteca
 
-<span class="!text-red-600 font-bold uppercase">importante</span> O primeiro plano de aula de toda loja será sempre gratuito e passará por uma validação prévia. Queremos manter a comunidade acima de tudo coesa e respeitosa quanto ao tempo que cada educador emprega desenvolvendo seus projetos.
-Você será informado por email assim que seu material for revisado. Sua loja só será efetivamente liberada/ativada após esta etapa. Caso deseje pode verificar o andamento do processo na página principal da sua futura loja.
+Depois de ativar sua conta de vendedor e configurar sua loja, você já pode **cadastrar seus planos de aula** na Planoteca e disponibilizá-los para outros educadores. Esse processo foi pensado para ser **simples, rápido e intuitivo**, garantindo que seus materiais sejam apresentados de forma clara e atrativa.
 
-### Acesse sua área de vendedor
-Acesse a área de sua loja pelo ícone, logo ao lado do seu ícone de usuário. Você pode criar um novo produto selecionando a opção **novo produto** direto por esse menu ou, já dentro de sua loja, acessando o menu lateral **meus produtos** e clicando em **novo produto**.
-
-### Preencha as informações principais
-Aqui é onde você descreve seu material para que outros professores entendam o valor dele e onde poderá ser utilizado. 
-Preencha com atenção os campos, atentando aos campos que são obrigatórios (sinalizados com um asterísco logo após o título do campo). Da mesma forma, informações opcionais são informadas logo ao lado de cada nome de campo.
-
-### Adicione arquivos e imagens
-- **Arquivo principal**: faça o upload do seu plano em **PDF ou outro formato aceito**. Este será o arquivo disponibilizado para download.  
-- **Imagens de apoio**: inclua uma **capa ilustrativa** ou imagens que ajudem a transmitir o conteúdo. A Imagem Principal e Imagem 2 são campos obrigatórios, como capa e imagem ilustrativa do seu material. Ainda é possível enviar um pequeno vídeo caso queira demonstrar seu funcionamento ou pequena amostra em arquivo (apresentação em PPT, por exemplo)
-Lembre-se: materiais bem apresentados chamam mais atenção.
-<div class="my-1s">
-    <img src="/assets/img/cadastrar-planos-01.png" alt="cadastrar-planos-01" class="mx-auto border" />
+<div class="alert alert-important">
+⚠️ **Importante:** O primeiro plano de aula de toda loja será sempre gratuito e passará por uma validação prévia. Queremos manter a comunidade acima de tudo coesa e respeitosa quanto ao tempo que cada educador emprega desenvolvendo seus projetos.
+Você será informado por email assim que seu material for revisado. Sua loja só será efetivamente liberada/ativada após esta etapa. Caso deseje, pode verificar o andamento do processo na página principal da sua futura loja.
 </div>
 
-### Etapa de Aplicação
-Selecione as etapas de aplicação do seu material. Você pode selecionar até três (3) áreas e sua seleção irá filtrar os normativos e áreas de interesse disponíveis para seleção no campo seguinte. Selecione também o tipo de material, formato do material.
+## Passo a Passo para Cadastrar um Plano de Aula
 
-### Categorias
-Você pode agrupar seus materiais por categoria. São categorias personalizadas e que dentro da sua loja funcionam como mais um filtro. Um exemplo são materiais relacionados a um evento sazonal ( por exemplo: atividades referentes a feriados/datas comemorativas, etc)
+### 1. Acesse sua área de vendedor
+Acesse a área de sua loja pelo ícone ao lado do seu ícone de usuário. Você pode criar um novo produto selecionando a opção **Novo Produto** direto por esse menu ou, já dentro de sua loja, acessando o menu lateral **Meus Produtos** e clicando em **Novo Produto**.
 
-### BNCC
-Assim que você seleciona uma ou mais etapas de aplicação o botão de seleção dos normativos fica disponível. Assim, uma nova janela abrirá para seleção dos normativos relacionados ao seu material. Lembre-se que os normativos apresentados são somente aqueles relacionados às etapas selecionadas previamente. Marque os normativos de acordo com seu material e confirme. 
+### 2. Preencha as informações principais
+Aqui é onde você descreve seu material para que outros professores entendam o valor dele e onde poderá ser utilizado. Preencha com atenção os campos, atentando aos campos obrigatórios (sinalizados com asterisco). Informações opcionais são informadas logo ao lado de cada nome de campo.
+
+### 3. Adicione arquivos e imagens
+- **Arquivo principal:** Faça o upload do seu plano em **PDF ou outro formato aceito**. Este será o arquivo disponibilizado para download.  
+- **Imagens de apoio:** Inclua uma **capa ilustrativa** e imagens que ajudem a transmitir o conteúdo. A Imagem Principal e Imagem 2 são campos obrigatórios.
+- **Vídeo demonstrativo (opcional):** Você pode enviar um pequeno vídeo demonstrando o funcionamento ou uma amostra em PPT.
+
 <div class="my-1s">
-    <img src="/assets/img/cadastrar-planos-02.png" alt="cadastrar-planos-02" class="mx-auto border" />
+    <img src="/assets/img/cadastrar-planos-01.png" alt="Tela de cadastro de planos na Planoteca - upload de arquivos e imagens" class="mx-auto border" />
 </div>
 
-### Informações Adicionais
-Selecione qual o tempo de duração da atividade bem como a quantidade de páginas presentes no seu material. Essa informação ficará disponível para os outros educadores nas informações do seu plano de aula.
+### 4. Configure a etapa de aplicação
+- Selecione as etapas de aplicação do seu material (até 3 áreas)
+- Sua seleção filtrará os normativos disponíveis para seleção no campo seguinte
+- Selecione também o tipo de material e formato
+
+### 5. Organize por categorias
+- Agrupe seus materiais por categorias personalizadas
+- Categorias funcionam como filtros dentro da sua loja
+- Exemplo: atividades referentes a feriados/datas comemorativas
+
+### 6. Relacione com a BNCC
+- Assim que você seleciona uma ou mais etapas de aplicação, o botão de seleção dos normativos fica disponível
+- Selecione os normativos relacionados ao seu material
+- Lembre-se que os normativos apresentados são somente aqueles relacionados às etapas selecionadas
+
 <div class="my-1s">
-    <img src="/assets/img/cadastrar-planos-03.png" alt="cadastrar-planos-03" class="mx-auto border" />
+    <img src="/assets/img/cadastrar-planos-02.png" alt="Seleção de normativos BNCC na Planoteca" class="mx-auto border" />
 </div>
 
+### 7. Informações adicionais
+- Selecione o tempo de duração da atividade
+- Informe a quantidade de páginas do material
+- Estas informações ficarão disponíveis para outros educadores
 
-### Direitos Autorais
-Selecione também como seu material se refere a questão de Direitos Autorais. Identifique se o seu material é 100% autoral ou utiliza outras fontes ( materiais externos ou utilizados e que possuem outro autor ).
-
-### Publicação
-Você pode já criar seu material e torná-lo público/visível no catálogo e sua loja ou apenas salvá-lo como rascunho. Neste caso, você poderá voltar a seção de produtos, editar e torná-lo visível em outra oportunidade.
-***importante*** seu primeiro material não possui esta opção visto que irá passar pela avaliação da equipe.
-
-### Revisar e publicar
-Antes de publicar, revise todas as informações para garantir clareza e qualidade.  
-Em seguida, clique em **Confirmar**. Você será redirecionado à página inicial da sua loja.
-
-### Primeiro Material
-Caso seja o primeiro material e sujeito a avaliação, você poderá verificar o status da sua publicação.
 <div class="my-1s">
-    <img src="/assets/img/cadastrar-planos-04.png" alt="cadastrar-planos-04" class="mx-auto border" />
+    <img src="/assets/img/cadastrar-planos-03.png" alt="Informações adicionais do plano de aula na Planoteca" class="mx-auto border" />
+</div>
+
+### 8. Declare os direitos autorais
+- Identifique se seu material é 100% autoral
+- Informe se utiliza materiais externos ou de outros autores
+
+### 9. Publique seu material
+- Você pode tornar seu material público imediatamente
+- Ou salvar como rascunho para editar depois
+- ⚠️ **Atenção:** Seu primeiro material não possui esta opção, pois passará pela avaliação da equipe
+
+### 10. Verifique o status do primeiro material
+- Caso seja o primeiro material e sujeito a avaliação, você poderá verificar o status da sua publicação
+
+<div class="my-1s">
+    <img src="/assets/img/cadastrar-planos-04.png" alt="Status de publicação do primeiro plano de aula na Planoteca" class="mx-auto border" />
 </div>
 
 ---
 
-👉 Cadastrar planos na Planoteca é uma forma de **valorizar seu trabalho pedagógico** e **colaborar com a comunidade educacional**.  
-Quanto mais organizado, detalhado e atrativo for o seu cadastro, **maiores as chances de outros professores encontrarem e adquirirem seu material**.
+👉 Cadastrar planos na Planoteca é uma forma de **valorizar seu trabalho pedagógico** e **colaborar com a comunidade educacional**. Quanto mais organizado, detalhado e atrativo for o seu cadastro, **maiores as chances de outros professores encontrarem e adquirirem seu material**.

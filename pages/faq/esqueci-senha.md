@@ -1,27 +1,31 @@
 ---
-title: Esqueci minha senha
+title: Esqueci minha senha da Planoteca – Como recuperar o acesso
+description: Recupere o acesso à sua conta na Planoteca. Guia rápido para redefinir sua senha de forma segura e retomar suas atividades.
 permalink: /faq/esqueci-senha/
 ---
 
+# Como recuperar sua senha na Planoteca
+
 Esquecer a senha é normal, mas não se preocupe! Recuperar o acesso à sua conta na Planoteca é **rápido e seguro**. 
 
-Caso você utilize email e senha para acesso ao invés do login com sua conta do **Google**, a senha possui um tempo próprio de expiração, que será informado na hora do acesso. Neste caso, proceda com a troca da senha.
+> **Observação:** Caso você utilize **e-mail e senha** para acesso (em vez do login com Google), a senha possui um tempo próprio de expiração, que será informado no momento do acesso. Nesse caso, proceda com a troca da senha seguindo os passos abaixo.
 
-### Como recuperar sua senha:  
-1. **Acesse a tela de login**  
-   Clique em **Esqueci minha senha** abaixo dos campos de acesso.  
+## Passo a passo para redefinir sua senha
 
-2. **Informe seu e-mail**  
-   Digite o endereço de e-mail cadastrado na sua conta e clique em **Enviar link de redefinição**.  
+### 1. Acesse a tela de login  
+Clique em **Esqueci minha senha** abaixo dos campos de acesso.  
 
-3. **Verifique sua caixa de entrada**  
-   Você receberá um e-mail com um link para criar uma nova senha.  
-   - Se não encontrar o e-mail, verifique a pasta de spam ou lixo eletrônico.  
+### 2. Informe seu e-mail cadastrado  
+Digite o endereço de e-mail associado à sua conta e clique em **Enviar link de redefinição**.  
 
-4. **Crie uma nova senha**  
-   Escolha uma senha **segura e fácil de lembrar**, evitando combinações óbvias.  
-   Após confirmar, você poderá acessar sua conta normalmente.  
+### 3. Verifique sua caixa de entrada  
+Você receberá um e-mail com um **link seguro para criar uma nova senha**.  
+- Se não encontrar o e-mail, verifique as pastas de **spam ou lixo eletrônico**.  
+
+### 4. Crie uma nova senha segura  
+Escolha uma senha **forte e fácil de lembrar**, evitando combinações óbvias ou muito simples.  
+Após confirmar, você poderá acessar sua conta normalmente.  
 
 ---
 
-👉 Esse processo é **rápido, seguro e automático**, permitindo que você retome suas atividades na Planoteca sem complicação.
+👉 Esse processo é **rápido, seguro e totalmente automatizado**, permitindo que você retome suas atividades na Planoteca sem complicações.

@@ -2,12 +2,11 @@ title: planoteca
 email: admin@planoteca.com.br
 author: Andreas Hansen
 tagline: "planoteca :: Ilumine sua Aula, Simplifique seu Planejamento"
-description: "A Planoteca é um marketplace de planos de aula que apoia educadores no processo de criação de conteúdo pedagógico, oferecendo materiais prontos, práticos e alinhados à rotina escolar."
+description: "A Planoteca é um marketplace onde educadores encontram e vendem planos de aula prontos e de qualidade."
 
 url: "https://doc.planoteca.com.br"
 baseurl: ""
 keywords: "planoteca plano-de-aula marketplace ajuda documentacao help knowledgebase faq suporte"
-add_permalinks: true
 twitter: planoteca
 support: https://suporte.planoteca.com.br
 repo: https://github.com/ndrshnsn/planoteca-doc

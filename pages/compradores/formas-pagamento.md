@@ -1,16 +1,20 @@
 ---
-title: Formas de pagamento  
+title: Formas de pagamento na Planoteca – Pix exclusivo
+description: Conheça as formas de pagamento da Planoteca. Trabalhamos apenas com Pix: rápido, seguro e acessível para todos os educadores.
 permalink: /compradores/formas-pagamento/
 ---
 
-Atualmente, a Planoteca trabalha **exclusivamente com Pix**, por ser uma forma de pagamento:  
+# Formas de pagamento na Planoteca
 
-- 💸 **Rápida**: a confirmação acontece em poucos minutos.  
-- 🔒 **Segura**: todas as transações são protegidas.  
-- 🌱 **Acessível**: qualquer educador pode usar, basta ter uma conta bancária com chave Pix.  
+Atualmente, a Planoteca trabalha **exclusivamente com Pix**, uma opção que combina:
 
-Ao finalizar sua compra, o sistema gera um **código QR e Pix Copia e Cola** para que você realize o pagamento diretamente no aplicativo do seu banco.  
+- 💸 **Rapidez**: a confirmação do pagamento ocorre em poucos minutos.  
+- 🔒 **Segurança**: todas as transações são protegidas e monitoradas.  
+- 🌱 **Acessibilidade**: qualquer educador pode utilizar, basta ter uma conta bancária com chave Pix cadastrada.  
+
+## Como funciona o pagamento
+Ao finalizar sua compra, o sistema gera automaticamente um **código QR e o Pix Copia e Cola**. Basta usar o aplicativo do seu banco para escanear ou colar o código e confirmar o pagamento.
 
 ---
 
-👉 Comprar na Planoteca é **simples, rápido e sem complicação**: você adiciona os planos ao carrinho, paga via Pix e tem acesso imediato ao material.
+👉 Comprar na Planoteca é **simples, rápido e sem complicações**: adicione os planos ao carrinho, pague via Pix e tenha **acesso imediato** ao material.

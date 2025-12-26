@@ -1,31 +1,32 @@
 ---
-title: O que é a Planoteca
+title: O que é a Planoteca | Marketplace de Planos de Aula
+description: Conheça a Planoteca, um marketplace onde educadores encontram, compartilham e vendem planos de aula e materiais pedagógicos.
 permalink: /a-planoteca/visao-geral/
 ---
 
-A planoteca é uma plataforma online que funciona como um marketplace de planos de aula/estudo. Aqui, professores, escolas e instituições podem compartilhar seus planos de aula, materiais e experiências, compartilhando e transformando conhecimento em oportunidade.
+A **Planoteca** é uma plataforma online que funciona como um **marketplace de planos de aula**, conectando educadores, escolas e instituições a materiais pedagógicos prontos e de qualidade. Aqui, professores podem **encontrar, compartilhar e vender planos de aula**, transformando conhecimento em impacto educacional e fonte de renda.
 
 ## O problema que resolvemos
-\
-Hoje, quem busca planos ou serviços educacionais enfrenta alguns desafios:
 
-- Pesquisar em diversos sites ou redes sociais.
-- Dificuldade em comparar opções de diferentes escolas e professores.
-- Materiais não produzidos conforme as necessidades descritas na BNCC.
+Hoje, quem busca planos de aula e serviços educacionais enfrenta diversos desafios:
 
-Da mesma forma, escolas e educadores encontram barreiras para oferecer seus planos:
+- Perda de tempo pesquisando em vários sites e redes sociais.
+- Dificuldade para comparar materiais de diferentes professores e instituições.
+- Falta de alinhamento dos conteúdos às diretrizes da BNCC.
 
-- Divulgação limitada e pouco alcance.
-- Necessidade de investir em sites ou sistemas próprios.
-- Falta de ferramentas para avaliar seu público e aplicabilidade de seus materiais.
+Por outro lado, educadores e escolas também encontram barreiras para oferecer seus materiais:
+
+- Divulgação limitada e baixo alcance do conteúdo produzido.
+- Custos e complexidade para manter sites ou plataformas próprias.
+- Falta de ferramentas para entender o público e a aplicabilidade dos materiais.
 
 ## Nossa solução
-\
- A planoteca resolve estes problemas da seguinte forma:
 
-- **Centralização**: planos, cursos e serviços educacionais reunidos em um só lugar.
-- **Facilidade**: interface simples para encontrar o que você busca.
-- **Qualidade**: materiais e educadores validados pela comunidade.
-- **Gestão prática**: tanto para criadores de conteúdo como quem busca seus planos de aula.
+A **Planoteca** resolve esses desafios ao oferecer:
 
-Assim, criamos um espaço que **aproxima quem oferece e quem busca planos de ensino**, economizando tempo dos educadores ao mesmo tempo que podem focar no que realmente faça a diferença no processo de aprendizagem.
+- **Centralização**: planos de aula, cursos e serviços educacionais reunidos em um único lugar.
+- **Facilidade**: uma plataforma simples e intuitiva para buscar, publicar e gerenciar conteúdos.
+- **Qualidade**: materiais avaliados e validados pela comunidade educacional.
+- **Gestão prática**: ferramentas pensadas tanto para quem cria conteúdos quanto para quem busca planos de ensino.
+
+Assim, a Planoteca cria um espaço que **aproxima quem ensina de quem aprende**, economiza tempo no planejamento pedagógico e permite que educadores foquem no que realmente importa: ensinar melhor e ampliar seu impacto.
