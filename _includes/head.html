@@ -1,25 +1,60 @@
 <head>
-      <meta charset=utf-8>
-      <meta http-equiv=X-UA-Compatible content="IE=edge">
-      <meta name=keywords content="planoteca doc {{ site.keywords }}">
-      <meta name="ROBOTS" CONTENT="INDEX, FOLLOW">
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=keywords content="planoteca doc {{ site.keywords }}">
+    <meta name="ROBOTS" CONTENT="INDEX, FOLLOW">
 
-      <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicons/favicon.ico" >
-      <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png" sizes="180x180">
-      <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/favicon-16x16.png" sizes="16x16">
-      <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/favicon-32x32.png" sizes="32x32">
-      <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/android-chrome-192x192.png"sizes="192x192">
-      <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/android-chrome-512x512.png"sizes="512x512">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicons/favicon.ico" >
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/android-chrome-192x192.png"sizes="192x192">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/android-chrome-512x512.png"sizes="512x512">
 
-      <meta name=referrer content=origin>
-      <meta name=HandheldFriendly content=True>
-      <meta name=viewport content="width=device-width, initial-scale=1.0">
-      <meta name=msapplication-TileColor content="#4d7cfe">
-      <meta name=theme-color content="#ffffff">
-      <link rel=stylesheet href="{{ site.baseurl }}/assets/css/main.css" media=all>
-      <link rel=stylesheet href="{{ site.baseurl }}/assets/css/tailwind.css" media=all>
-      <link rel=stylesheet href="{{ site.baseurl }}/assets/css/docsearch.css" media=all>
-      <link rel=stylesheet href="{{ site.baseurl }}/assets/css/monokai.css" media=all>
+    <meta name=referrer content=origin>
+    <meta name=HandheldFriendly content=True>
+    <meta name=viewport content="width=device-width, initial-scale=1.0">
+    <meta name=msapplication-TileColor content="#4d7cfe">
+    <meta name=theme-color content="#ffffff">
+    <link rel=stylesheet href="{{ site.baseurl }}/assets/css/main.css" media=all>
+    <link rel=stylesheet href="{{ site.baseurl }}/assets/css/tailwind.css" media=all>
+    <link rel=stylesheet href="{{ site.baseurl }}/assets/css/docsearch.css" media=all>
+    <link rel=stylesheet href="{{ site.baseurl }}/assets/css/monokai.css" media=all>
 
-      {% seo %}
+    {% if page.title %}
+        <title>{{ page.title }} | {{ site.title }}</title>
+        <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+    {% else %}
+        <title>{{ site.title }} - {{ site.tagline }}</title>
+        <meta property="og:title" content="{{ site.title }} - {{ site.tagline }}">
+    {% endif %}
+
+    {% if page.description %}
+        <meta name="description" content="{{ page.description }}">
+        <meta property="og:description" content="{{ page.description }}">
+    {% else %}
+        <meta name="description" content="{{ site.description }}">
+        <meta property="og:description" content="{{ site.description }}">
+    {% endif %}
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+
+    <meta property="og:image" content="{{ site.url }}/{{ site.logo }}">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{ site.twitter }}">
+    <meta name="twitter:creator" content="@{{ site.twitter }}">
+    <meta name="twitter:image" content="{{ site.url }}/{{ site.logo }}">
+
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="{{ site.locale }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+
+    <meta name="keywords" content="{{ site.keywords }}">
+    <meta name="author" content="{{ site.author }}">
+  
 </head>

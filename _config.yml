@@ -32,7 +32,6 @@ collections:
 
 plugins:
   - jekyll-postcss
-  - jekyll-seo-tag
   - jekyll-sitemap
 
 sitemap:
