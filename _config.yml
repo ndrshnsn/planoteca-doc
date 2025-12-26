@@ -24,6 +24,7 @@ kramdown:
   syntax_highlighter: rouge
 tag_color: primary
 fixedNav: 'true'
+fb_app_id: "4287373404915491"
 
 collections:
   docs:
@@ -49,7 +50,7 @@ social:
     - "https://facebook.com/planoteca"
     - "https://instagram.com/planoteca.oficial"
 
-og_image: "assets/img/logo/planoteca_doc.png"
+og_image: "assets/img/logo/doc-og-bg.png"
 
 postcss:
   cache: false
