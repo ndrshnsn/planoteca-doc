@@ -61,7 +61,7 @@ Nossa documentação está organizada em seções claras para você encontrar ra
 
 ### Sugestões e Melhorias
 Quer sugerir uma nova funcionalidade ou reportar algum problema?  
-**[Abra um Chamado / Ocorrência]({{ site.repo }}/issues)** – Nossa equipe de desenvolvimento analisa todas as sugestões da comunidade.
+**[Abra um Chamado / Ocorrência](https://planoteca.com.br/suporte)** – Nossa equipe de desenvolvimento analisa todas as sugestões da comunidade.
 
 ## 🚀 Comece Agora Mesmo!
 
