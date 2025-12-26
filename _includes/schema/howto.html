@@ -1,0 +1,64 @@
+,{
+  "@type": "HowTo",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description | default: content | strip_html | truncate: 200 }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.image | default: '/assets/img/cadastrar-planos-01.png' | absolute_url }}"
+  },
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "BRL",
+    "value": "0"
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Acesse sua área de vendedor",
+      "text": "Faça login na Planoteca e clique no ícone da loja no menu superior.",
+      "url": "{{ page.url | absolute_url }}#acesse-sua-area"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Preencha as informações principais",
+      "text": "Adicione título, descrição e detalhes do plano de aula.",
+      "url": "{{ page.url | absolute_url }}#preencha-informacoes"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Adicione arquivos e imagens",
+      "text": "Faça upload do PDF do plano e imagens ilustrativas.",
+      "url": "{{ page.url | absolute_url }}#adicione-arquivos"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Configure a etapa de aplicação",
+      "text": "Selecione etapas de ensino e normativos da BNCC.",
+      "url": "{{ page.url | absolute_url }}#configure-etapa"
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Revise e publique",
+      "text": "Confirme todas as informações e publique seu plano.",
+      "url": "{{ page.url | absolute_url }}#revise-publique"
+    }
+  ],
+  "totalTime": "PT10M",
+  "tool": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "Planoteca",
+      "applicationCategory": "EducationalApplication"
+    }
+  ],
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Plano de aula em formato digital"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Imagens ilustrativas"
+    }
+  ]
+}

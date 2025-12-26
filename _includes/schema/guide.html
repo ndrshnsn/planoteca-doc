@@ -1,0 +1,36 @@
+,{
+  "@type": "Guide",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description | default: content | strip_html | truncate: 200 }}",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Use a barra de busca",
+      "text": "No topo da página, digite palavras-chave relacionadas ao tema, série ou disciplina desejada."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Explore categorias e filtros",
+      "text": "Use os filtros por etapa, valor, área ou normativo para refinar sua busca."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Consulte os detalhes do material",
+      "text": "Clique em cada plano para ver descrição completa, objetivos de aprendizagem e público-alvo."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Salve e organize favoritos",
+      "text": "Adicione planos interessantes aos favoritos para acessá-los facilmente depois."
+    }
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "Busca de Planos de Aula",
+    "description": "Como encontrar materiais pedagógicos na plataforma Planoteca"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Educator"
+  }
+}

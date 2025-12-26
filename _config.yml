@@ -54,6 +54,13 @@ og_image: "assets/img/logo/planoteca_doc.png"
 postcss:
   cache: false
 
+social_links:
+  - "https://twitter.com/planoteca"
+  - "https://facebook.com/planoteca"
+  - "https://instagram.com/planoteca.oficial"
+
+search_enabled: true
+
 exclude:
   - node_modules
   - _site

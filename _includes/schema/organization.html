@@ -1,0 +1,15 @@
+{
+  "@type": "Organization",
+  "@id": "{{ site.url }}#organization",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ site.url }}/assets/img/logo/planoteca_doc.png",
+    "width": "1200",
+    "height": "630"
+  }
+  {% if site.social_links %}
+  ,"sameAs": {{ site.social_links | jsonify }}
+  {% endif %}
+}
