@@ -32,11 +32,11 @@ Inclua sempre:
 ## Diretrizes para Definição de Preços
 
 ### 1. Valor Justo e Compatível
-- Defina preços **justos** considerando:
-  - **Qualidade** do material
-  - **Complexidade** do conteúdo
-  - **Tempo investido** na elaboração
-  - **Originalidade** do plano
+Defina preços **justos** considerando:
+- **Qualidade** do material
+- **Complexidade** do conteúdo
+- **Tempo investido** na elaboração
+- **Originalidade** do plano
 
 ### 2. Estratégia de Precificação
 - **Preços muito baixos** podem desvalorizar seu trabalho

@@ -56,12 +56,11 @@ Nossa documentação está organizada em seções claras para você encontrar ra
 
 ### Suporte Técnico e Dúvidas
 - **📧 E-mail:** [suporte@planoteca.com.br](mailto:suporte@planoteca.com.br)
-- **📱 WhatsApp:** Disponível em horário comercial
 - **📋 FAQ Completo:** [Acesse nossa seção de perguntas frequentes](/faq/)
 
 ### Sugestões e Melhorias
 Quer sugerir uma nova funcionalidade ou reportar algum problema?  
-**[Abra um Chamado / Ocorrência](https://planoteca.com.br/suporte)** – Nossa equipe de desenvolvimento analisa todas as sugestões da comunidade.
+**[Abra um Chamado / Ocorrência](mailto:suporte@planoteca.com.br)** – Nossa equipe de desenvolvimento analisa todas as sugestões da comunidade.
 
 ## 🚀 Comece Agora Mesmo!
 

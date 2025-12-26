@@ -26,7 +26,7 @@ A Planoteca oferece diferentes formas de suporte para garantir que você receba 
 
 ### Dias Úteis (Segunda a Sexta-feira)
 - **Período:** 9h às 18h
-- **Canais disponíveis:** E-mail e WhatsApp
+- **Canais disponíveis:** E-mail - WhatsApp em processo...
 
 ### Finais de Semana e Feriados
 - **Atendimento por e-mail** com resposta no próximo dia útil
@@ -35,7 +35,6 @@ A Planoteca oferece diferentes formas de suporte para garantir que você receba 
 ## Tempo Médio de Resposta
 - **📧 E-mail:** Até 24 horas úteis
 - **📱 WhatsApp:** Resposta imediata durante horário comercial (conforme disponibilidade da equipe)
-- **📋 Chat do site:** Respostas automáticas para questões frequentes
 
 ## Dicas para um Atendimento Mais Eficiente
 1. **Descreva claramente** sua dúvida ou problema

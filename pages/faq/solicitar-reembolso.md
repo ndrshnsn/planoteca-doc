@@ -11,19 +11,19 @@ Se você adquiriu um plano na Planoteca e precisa solicitar um reembolso, o proc
 ## Passo a passo para solicitar reembolso
 
 ### 1. Verifique as condições  
-- Confirme se o pedido se enquadra na **política de devolução e reembolso** da Planoteca.  
+- Confirme se o pedido se enquadra na [**política de devolução e reembolso**](https://doc.planoteca.com.br/politicas/devolucao-reembolso/) da Planoteca.  
 - O prazo para cancelar a compra e solicitar reembolso de material digital é de **até 7 dias**, a partir da data da compra, conforme o **direito de arrependimento do Código de Defesa do Consumidor (Art. 49 CDC)**.
 
-### 2. Entre em contato com o suporte  
-- Acesse a seção **Suporte** na sua conta ou envie um e-mail para a equipe da Planoteca.  
-- Informe os seguintes dados:  
-  - **Número do pedido**  
-  - **E-mail cadastrado**  
-  - **Motivo do reembolso**  
+### 2. Verifique os detalhes do seu pedido
+- Acesse a seção **Pedidos** na sua conta.
+- Verifique os Detalhes do Pedido
+- Estando de acordo com as políticas de reembolso, clique no botão **Solicitar Estorno**
+- Na janela que irá abrir, informe o motivo do seu pedido e descreva em detalhes o motivo da sua solicitação. Após, marque a caixa "confirmo minha soliticação" e será dado início ao processo de reembolso.
 
-### 3. Aguarde a análise  
-- Nossa equipe avaliará sua solicitação e confirmará se o reembolso pode ser aprovado.  
-- Caso aprovado, o valor será devolvido **para a mesma chave Pix utilizada no pagamento**, de forma rápida e segura.  
+### 3. Aguarde o processo  
+- O valor será devolvido **para a mesma chave Pix utilizada no pagamento**, de forma rápida e segura. 
+- O acesso ou quantidade de licenças adquiridas serão removidos de sua base de produtos
+- Caso verifique algum problema durante o processamento de estorno, entre em contato.
 
 ## Dicas para um processo ágil  
 - Mantenha **todas as informações do pedido** à mão para agilizar a solicitação.  

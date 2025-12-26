@@ -18,7 +18,7 @@ Nessa área, você encontra a lista completa de compras realizadas, com informa�
 - Status do pagamento  
 
 ### Download imediato dos materiais
-Assim que o pagamento via **Pix** for confirmado, os planos de aula ficam **disponíveis para download imediato** na seção **Arquivos**, acessível pelo menu lateral do painel do usuário.
+Assim que o pagamento via **Pix** for confirmado, os planos de aula ficam **disponíveis para download imediato** na seção **Meus Produtos**, acessível pelo menu lateral do painel do usuário.
 
 ### Acesso permanente
 Mesmo após realizar o download, seus materiais continuam salvos na sua conta.  
