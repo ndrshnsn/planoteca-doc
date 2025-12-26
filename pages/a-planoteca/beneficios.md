@@ -1,28 +1,34 @@
 ---
-title: Quem Pode Usar a Planoteca
-description: Saiba quem pode usar a Planoteca e descubra como educadores podem acessar ou vender planos de aula de forma simples e segura.
-permalink: /a-planoteca/quem-pode-usar/
+title: Principais Benefícios da Planoteca para Educadores
+description: Conheça os principais benefícios da Planoteca e descubra como ganhar tempo, acessar bons materiais e valorizar seu trabalho pedagógico.
+permalink: /a-planoteca/beneficios/
 ---
 
-A **Planoteca** foi criada para **facilitar a rotina dos educadores** e, ao mesmo tempo, **valorizar o trabalho pedagógico**.  
-Na plataforma, é possível participar de duas formas principais, de acordo com o seu objetivo.
+A **Planoteca** vai além de um espaço para comprar e vender planos de aula.  
+Ela foi criada para ser **uma parceira do educador**, oferecendo apoio real no dia a dia escolar e ajudando a valorizar o trabalho pedagógico.
 
-### 👩‍🏫 Educadores vendedores
-São professores, educadores e criadores de conteúdo que desejam **compartilhar seus planos de aula** com outros profissionais da educação.
+Entre os principais benefícios da Planoteca, estão:
 
-Na Planoteca, você pode:
-- Publicar planos de aula que você criou e acredita que podem ajudar outros educadores;
-- Organizar seus materiais em um ambiente profissional e confiável;
-- **Receber pelo trabalho e pelo tempo investido** na produção dos seus conteúdos pedagógicos.
+### ⏳ Economia de tempo no planejamento
+Planejar aulas exige dedicação e, muitas vezes, consome horas fora do horário de trabalho.  
+Na Planoteca, você encontra **planos de aula prontos e bem estruturados**, o que permite ganhar tempo e focar no que mais importa: a prática em sala de aula e o acompanhamento dos alunos.
 
-### 📚 Educadores compradores
-São professores, escolas e profissionais da área que buscam **planos de aula prontos, bem estruturados, de qualidade e alinhados à BNCC**.
+### 💡 Inspiração e criatividade contínuas
+Nem sempre a inspiração vem fácil. Com a Planoteca, você tem acesso a ideias criadas por outros educadores, podendo **adaptar e personalizar os materiais** conforme a sua realidade.  
+Isso amplia o repertório pedagógico e traz novas possibilidades para o ensino.
 
-Ao utilizar a Planoteca, você pode:
-- Encontrar rapidamente materiais adequados às necessidades da sua turma;
-- Economizar tempo no planejamento pedagógico;
-- Ter acesso a ideias práticas e inspiradoras criadas por outros educadores.
+### 💰 Valorização do trabalho docente
+Muitos professores já produzem materiais de alta qualidade que acabam ficando restritos à própria sala de aula.  
+Na Planoteca, você pode **compartilhar seus planos de aula**, ser reconhecido pelo seu trabalho e ainda **gerar renda extra** de forma simples, justa e transparente.
+
+### 🤝 Comunidade colaborativa de educadores
+A Planoteca conecta professores de diferentes áreas, etapas e contextos educacionais.  
+Mais do que uma plataforma, é um **espaço de troca, colaboração e apoio**, onde cada contribuição fortalece a rede e promove uma educação mais acessível e diversa.
+
+### 🎯 Praticidade no dia a dia
+Tudo na Planoteca é pensado para facilitar a rotina do educador — desde a busca por materiais até a publicação dos seus próprios planos.  
+Assim, você conta com uma **ferramenta organizada, prática e confiável**, pronta para usar sempre que precisar.
 
 ---
 
-👉 Em resumo, a Planoteca conecta quem **precisa de recursos para ensinar** com quem **já produz materiais de qualidade**, criando uma rede colaborativa, sustentável e focada em melhorar a educação.
+👉 Em resumo, a Planoteca ajuda o educador a **ganhar tempo, ampliar recursos pedagógicos e valorizar seu conhecimento**, apoiando quem está na linha de frente da educação.

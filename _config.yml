@@ -43,23 +43,14 @@ sitemap:
   priority: 0.5
   include_posts: true
 
-seo:
-  type: "Organization"
-  organization:
-    name: "planoteca"
-    logo: "assets/img/logo/planoteca_doc.png"
-    url: "https://planoteca.com.br"
+social:
+  name: "planoteca"
+  links:
+    - "https://twitter.com/planoteca"
+    - "https://facebook.com/planoteca"
+    - "https://instagram.com/planoteca.oficial"
 
-  default_og_image: assets/img/logo/planoteca_doc.png
-  twitter_card: summary
-  twitter_username: "planoteca"
-  facebook_app_id: "123456789"
-  social:
-    name: "planoteca"
-    links:
-      - "https://twitter.com/planoteca"
-      - "https://facebook.com/planoteca"
-      - "https://instagram.com/planoteca.oficial"
+og_image: "assets/img/logo/planoteca_doc.png"
 
 postcss:
   cache: false
