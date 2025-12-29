@@ -1,15 +1,16 @@
-<!-- _includes/schema-main.html -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
-    {% include schema/website.html %},
-    {% include schema/organization.html %},
-    {% include schema/webpage.html %},
-    {% include schema/knowledgebase.html %}
+    {% assign all_schemas = "" | split: "" %}
+    {% assign all_schemas = all_schemas | push: include.schema/website.html %}
+    {% assign all_schemas = all_schemas | push: include.schema/organization.html %}
+    {% assign all_schemas = all_schemas | push: include.schema/webpage.html %}
+    {% assign all_schemas = all_schemas | push: include.schema/knowledgebase.html %}
     {% if page.url == '/' %}
-      ,{% include schema/itemlist-homepage.html %}
+      {% assign all_schemas = all_schemas | push: include.schema/itemlist-homepage.html %}
     {% endif %}
+    {{ all_schemas | join: "," }}
   ]
 }
 </script>
