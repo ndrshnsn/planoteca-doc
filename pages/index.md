@@ -33,7 +33,7 @@ Nossa documentação está organizada em seções claras para você encontrar ra
 
 ### Para Vendedores:
 - **Plataforma gratuita** para cadastro de materiais
-- **Recebimento direto** via Pix sem intermediários
+- **Recebimento direto** sem intermediários
 - **Controle total** sobre preços e conteúdo
 - **Ferramentas de gestão** de vendas e produtos
 - **Comunidade ativa** de educadores
