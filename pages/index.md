@@ -24,17 +24,11 @@ Nossa documentação está organizada em seções claras para você encontrar ra
 
 ## 🎯 Destaques da Plataforma Planoteca
 
-### Para Compradores:
 - **Catálogo diversificado** de planos de aula por disciplina, série e tema
 - **Busca inteligente** com filtros por BNCC, preço e avaliações
-- **Pagamento rápido e seguro** via Pix
 - **Comunicação direta** com os criadores dos materiais
 - **Acesso imediato** após a compra
-
-### Para Vendedores:
 - **Plataforma gratuita** para cadastro de materiais
-- **Recebimento direto** sem intermediários
-- **Controle total** sobre preços e conteúdo
 - **Ferramentas de gestão** de vendas e produtos
 - **Comunidade ativa** de educadores
 
