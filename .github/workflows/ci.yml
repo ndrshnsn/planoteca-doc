@@ -36,6 +36,6 @@ jobs:
 
               cd /srv/app
 
-              docker compose pull
-              docker compose up jekyll -d
+              docker compose --env-file .env.production pull
+              docker compose --env-file .env.production up jekyll -d
               docker system prune -af --volumes
