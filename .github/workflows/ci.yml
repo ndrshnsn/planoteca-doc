@@ -10,32 +10,38 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-        - name: Build the site in the jekyll/builder container
-          uses: actions/checkout@v4
-
-        - name: Log in to private registry
-          run: echo "${{ secrets.REGISTRY_PASSWORD }}" | docker login ${{ secrets.REGISTRY_HOST }} -u ${{ secrets.REGISTRY_USER }} --password-stdin
-
-        - name: Build image
-          run: docker build -t ${{ secrets.REGISTRY_HOST }}/jekyll:latest .
-
-        - name: Push image
-          run: docker push ${{ secrets.REGISTRY_HOST }}/jekyll:latest
-
-        - name: Deploy on VPS
-          uses: appleboy/ssh-action@v1.0.3
-          with:
-            host: ${{ secrets.VPS_HOST }}
-            port: 1022
-            username: ${{ secrets.VPS_USER }}
-            key: ${{ secrets.VPS_SSH_KEY }}
-            script: |
-              set -e
-
-              docker login ${{ secrets.REGISTRY_HOST }} -u ${{ secrets.REGISTRY_USER }} -p ${{ secrets.REGISTRY_PASSWORD }}
-
-              cd /srv/app
-
-              docker compose --env-file .env.production pull
-              docker compose --env-file .env.production up jekyll -d
-              docker system prune -af --volumes
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Login to registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ secrets.REGISTRY_HOST }}
+          username: ${{ secrets.REGISTRY_USER }}
+          password: ${{ secrets.REGISTRY_PASSWORD }}
+      
+      - name: Build and push
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: true
+          tags: ${{ secrets.REGISTRY_HOST }}/jekyll:latest
+  
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy on VPS
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          port: 1022
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          script: |
+            set -e
+            docker login ${{ secrets.REGISTRY_HOST }} -u ${{ secrets.REGISTRY_USER }} -p ${{ secrets.REGISTRY_PASSWORD }}
+            cd /srv/app
+            docker compose --env-file .env.production pull jekyll
+            docker compose --env-file .env.production up -d jekyll
+            docker system prune -af --volumes
