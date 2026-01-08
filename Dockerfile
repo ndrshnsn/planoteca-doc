@@ -15,7 +15,7 @@ RUN apk add --no-cache \
 
 WORKDIR /srv/jekyll
 
-COPY Gemfile ./
+COPY Gemfile* ./
 
 RUN gem install bundler -v 2.6.8 \
   && bundle lock --add-platform x86_64-linux-musl \
