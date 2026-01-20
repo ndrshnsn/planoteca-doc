@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ site.url }}#organization",
+  "name": "{{ site.organization.name | default: site.title }}",
+  "url": "{{ site.url }}",
+  "hasPart": {
+    "@id": "{{ site.url }}#site-navigation"
+  }
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ site.organization.logo | absolute_url }}"
+  }
+  {% if site.organization.sameAs %},
+  "sameAs": [
+    {% for profile in site.organization.sameAs %}
+      "{{ profile }}"{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+  {% endif %}
+}
+</script>

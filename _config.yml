@@ -62,6 +62,15 @@ social_links:
 
 search_enabled: true
 
+organization:
+  name: Planoteca
+  logo: assets/img/logo/planoteca_doc.png
+  sameAs:
+    - https://twitter.com/planoteca
+    - https://facebook.com/planoteca
+    - https://www.instagram.com/planoteca.oficial
+
+
 exclude:
   - node_modules
   - _site
