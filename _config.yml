@@ -70,7 +70,6 @@ organization:
     - https://facebook.com/planoteca
     - https://www.instagram.com/planoteca.oficial
 
-
 exclude:
   - node_modules
   - _site

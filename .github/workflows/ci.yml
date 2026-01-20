@@ -43,5 +43,5 @@ jobs:
             docker login ${{ secrets.REGISTRY_HOST }} -u ${{ secrets.REGISTRY_USER }} -p ${{ secrets.REGISTRY_PASSWORD }}
             cd /srv/app
             docker compose --env-file .env.production pull jekyll
-            docker compose --env-file .env.production up -d jekyll
+            docker compose --env-file .env.production run --rm jekyll
             docker system prune -af --volumes

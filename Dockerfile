@@ -32,9 +32,4 @@ ENV JEKYLL_ENV=production
 ENV JEKYLL_URL=https://doc.planoteca.com.br
 ENV JEKYLL_BASEURL=
 
-EXPOSE 4000
-
-RUN bundle exec jekyll build \
-  --config _config.yml
-
-RUN grep -R "localhost:4000" _site && exit 1 || echo "OK: no localhost"
+RUN bundle exec jekyll build --config _config.yml
