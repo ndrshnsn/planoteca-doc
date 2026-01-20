@@ -82,3 +82,8 @@ exclude:
   - postcss.config.js
   - tailwind.config.js
   - yarn.lock
+  - Dockerfile
+  - docker-compose.yml
+  - .github
+  - Gemfile
+  - Gemfile.lock
