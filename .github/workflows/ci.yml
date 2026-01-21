@@ -43,5 +43,8 @@ jobs:
             docker login ${{ secrets.REGISTRY_HOST }} -u ${{ secrets.REGISTRY_USER }} -p ${{ secrets.REGISTRY_PASSWORD }}
             cd /srv/app
             docker compose --env-file .env.production pull jekyll
-            docker compose --env-file .env.production run --rm jekyll
+            docker compose --env-file .env.production run --rm \
+            -v /srv/app/planoteca-doc:/out \
+            jekyll \
+            sh -c "cp -r /srv/jekyll/_site/* /out/"
             docker system prune -af --volumes
