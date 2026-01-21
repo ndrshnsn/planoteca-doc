@@ -4,8 +4,8 @@ author: Andreas Hansen
 tagline: "planoteca :: Ilumine sua Aula, Simplifique seu Planejamento"
 description: "A Planoteca é um marketplace onde educadores encontram e vendem planos de aula prontos e de qualidade."
 
-url: {{ site.env.JEKYLL_URL | default: "" }}
-baseurl: {{ site.env.JEKYLL_BASEURL | default: "" }}
+url: ""
+baseurl: ""
 keywords: "planoteca plano-de-aula marketplace ajuda documentacao help knowledgebase faq suporte"
 twitter: planoteca
 support: suporte@planoteca.com.br
