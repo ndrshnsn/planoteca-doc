@@ -44,7 +44,7 @@ jobs:
             cd /srv/app
             docker compose --env-file .env.production pull jekyll
             docker compose --env-file .env.production run --rm \
-            -v /srv/app/planoteca-doc:/out \
-            jekyll \
-            sh -c "cp -r /srv/jekyll/_site/* /out/"
+                -v /srv/app/planoteca-doc:/out \
+                jekyll \
+                sh -c "bundle exec jekyll build --config _config.yml -d /out"
             docker system prune -af --volumes
