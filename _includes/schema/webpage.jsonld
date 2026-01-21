@@ -8,22 +8,19 @@
   "url": "{{ page.url | absolute_url }}",
 
   "isPartOf": {
-    "@id": "{{ site.url }}#organization"
+    "@id": "{{ site.url }}#website"
   },
 
   "publisher": {
     "@id": "{{ site.url }}#organization"
   }
-
   {% if page.image %},
   "image": "{{ page.image | absolute_url }}"
   {% endif %}
-
   {% if page.date %},
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}"
   {% endif %}
-
   {% if page.author %},
   "author": {
     "@type": "Person",

@@ -9,7 +9,7 @@
     {% assign nav = site.data.toc %}
     {% for item in nav %}
     {
-      "@type": "WebPage",
+      "@type": "SiteNavigationElement",
       "name": "{{ item.title }}",
       "url": "{{ item.url | absolute_url }}"
     }{% unless forloop.last %},{% endunless %}
