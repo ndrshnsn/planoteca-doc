@@ -2,23 +2,28 @@
 {
   "@context": "https://schema.org",
   "@graph": [
+
     {
       "@type": "Organization",
       "@id": "{{ site.url }}#organization",
-      "name": "{{ site.organization.name | default: site.title }}",
+      "name": "{{ site.title }}",
       "url": "{{ site.url }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.organization.logo | absolute_url }}"
-      }
-      {% if site.organization.sameAs %},
+        "url": "{{ site.url }}/assets/images/logo.png"
+      }{% if site.social %},
       "sameAs": [
-        {% for profile in site.organization.sameAs %}
-          "{{ profile }}"{% unless forloop.last %},{% endunless %}
+        {% for social in site.social %}
+        "{{ social }}"{% unless forloop.last %},{% endunless %}
         {% endfor %}
-      ]
-      {% endif %}
+      ]{% endif %},
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "url": "{{ site.url }}/contato"
+      }
     },
+
     {
       "@type": "WebSite",
       "@id": "{{ site.url }}#website",
@@ -27,11 +32,105 @@
       "publisher": {
         "@id": "{{ site.url }}#organization"
       },
-      "hasPart": {
-        "@type": "SiteNavigationElement",
-        "@id": "{{ site.url }}#site-navigation"
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "{{ site.url }}/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
       }
+    },
+
+    {
+      "@type": "{{ page.schema_type | default: 'TechArticle' }}",
+      "@id": "{{ page.url | absolute_url }}#doc",
+      "url": "{{ page.url | absolute_url }}",
+      "headline": "{{ page.title | escape }}",
+      "description": "{{ page.description | default: site.description | escape }}",
+      "author": {
+        "@type": "Organization",
+        "@id": "{{ site.url }}#organization"
+      },
+      "publisher": {
+        "@id": "{{ site.url }}#organization"
+      },
+      "isPartOf": {
+        "@id": "{{ site.url }}#website"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "datePublished": "{{ page.date | default: site.time | date_to_xmlschema }}"{% if page.last_modified_at %},
+      "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}"{% endif %}{% if page.image %},
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ page.image | absolute_url }}"
+      }{% endif %}{% if page.sidebar %},
+      "hasPart": {
+        "@id": "{{ page.url | absolute_url }}#sidebar"
+      }{% endif %}{% if page.parent_doc %},
+      "isPartOf": {
+        "@id": "{{ page.parent_doc | absolute_url }}#doc"
+      }{% endif %}
     }
+
+    {% if page.breadcrumbs %}
+    ,
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumbs",
+      "itemListElement": [
+        {% for crumb in page.breadcrumbs %}
+        {
+          "@type": "ListItem",
+          "position": {{ forloop.index }},
+          "name": "{{ crumb.name | escape }}",
+          "item": "{{ crumb.url | absolute_url }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    {% endif %}
+
+    {% if page.sidebar %}
+    ,
+    {
+      "@type": "ItemList",
+      "@id": "{{ page.url | absolute_url }}#sidebar",
+      "name": "{{ page.sidebar.title | escape }}",
+      "itemListOrder": "http://schema.org/ItemListOrderAscending",
+      "itemListElement": [
+        {% for item in page.sidebar.items %}
+        {
+          "@type": "ListItem",
+          "position": {{ forloop.index }},
+          "name": "{{ item.name | escape }}",
+          "url": "{{ item.url | absolute_url }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    {% endif %}
+
+    {% if page.faq %}
+    ,
+    {
+      "@type": "FAQPage",
+      "@id": "{{ page.url | absolute_url }}#faq",
+      "mainEntity": [
+        {% for qa in page.faq %}
+        {
+          "@type": "Question",
+          "name": "{{ qa.q | escape }}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{ qa.a | markdownify | strip_html | escape }}"
+          }
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    {% endif %}
+
   ]
 }
 </script>
