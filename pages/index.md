@@ -3,6 +3,23 @@ layout: page
 title: Planoteca Doc – Central de Ajuda e Documentação
 description: Central de ajuda da Planoteca. Encontre tutoriais, guias e respostas para dúvidas sobre como usar a plataforma de planos de aula como comprador ou vendedor.
 permalink: /
+breadcrumbs:
+  - name: "Início"
+    url: "/"
+  - name: "Sobre o Marketplace"
+    url: "/a-planoteca/visao-geral/"
+  - name: "Para compradores"
+    url: "/compradores/criar-conta/"
+  - name: "Para compradores"
+    url: "/nova-hartz/"
+  - name: "Para vendedores"
+    url: "/vendedores/criar-conta/"
+  - name: "Perguntas Frequentes (FAQ)"
+    url: "/faq/esqueci-senha/"
+  - name: "Polĩticas e Regras"
+    url: "/politicas/termos-uso/"
+  - name: "Suporte"
+    url: "/suporte/canais-de-atendimento/"
 ---
 
 # Bem-vindo à Central de Ajuda da Planoteca
@@ -17,10 +34,10 @@ Nossa documentação está organizada em seções claras para você encontrar ra
 
 | Seção | Para Quem | O que Você Encontra |
 |-------|-----------|---------------------|
-| **📖 Para Compradores** | Educadores que buscam planos de aula | Como criar conta, navegar, comprar, pagar e gerenciar materiais |
-| **🛍️ Para Vendedores** | Criadores que querem vender seus planos | Como cadastrar materiais, gerenciar vendas, receber pagamentos |
-| **❓ FAQ & Suporte** | Todos os usuários | Respostas para dúvidas frequentes, políticas e suporte |
-| **⚖️ Políticas** | Todos os usuários | Termos de uso, privacidade, cookies e regras da plataforma |
+| [**📖 Para Compradores**](/compradores/criar-conta/) | Educadores que buscam planos de aula | Como criar conta, navegar, comprar, pagar e gerenciar materiais |
+| [**🛍️ Para Vendedores**](/vendedores/criar-conta/) | Criadores que querem vender seus planos | Como cadastrar materiais, gerenciar vendas, receber pagamentos |
+| [**❓ FAQ & Suporte**](/faq/esqueci-senha/) | Todos os usuários | Respostas para dúvidas frequentes, políticas e suporte |
+| [**⚖️ Políticas**](/politicas/termos-uso/) | Todos os usuários | Termos de uso, privacidade, cookies e regras da plataforma |
 
 ## 🎯 Destaques da Plataforma Planoteca
 
