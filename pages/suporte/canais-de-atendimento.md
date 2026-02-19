@@ -18,6 +18,7 @@ A Planoteca oferece diferentes formas de suporte para garantir que você receba 
   Específico para assuntos relacionados à LGPD, solicitações de dados e privacidade.
 
 ### 📱 Atendimento por WhatsApp
+- Contate nosso suporte pelo Fone: **(51) 98135 1134**
 - **Suporte direto e personalizado** em horários específicos
 - **Orientação prática** para dúvidas complexas sobre a plataforma
 - **Resolução ágil** de questões técnicas e operacionais
@@ -26,7 +27,7 @@ A Planoteca oferece diferentes formas de suporte para garantir que você receba 
 
 ### Dias Úteis (Segunda a Sexta-feira)
 - **Período:** 9h às 18h
-- **Canais disponíveis:** E-mail - WhatsApp em processo...
+- **Canais disponíveis:** E-mail - WhatsApp
 
 ### Finais de Semana e Feriados
 - **Atendimento por e-mail** com resposta no próximo dia útil
