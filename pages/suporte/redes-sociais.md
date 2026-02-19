@@ -12,30 +12,32 @@ A Planoteca está presente nas principais redes sociais para oferecer **suporte 
 
 ### 📸 Instagram – @planoteca.oficial
 **[Acesse nosso Instagram](https://www.instagram.com/planoteca.oficial)**  
-- **Dicas práticas** para uso da plataforma
-- **Novidades sobre planos de aula** e materiais exclusivos
-- **Tutoriais rápidos** em formato de stories e reels
-- **Inspiração pedagógica** diária
+
+<!-- - **Dicas práticas** para uso da plataforma -->
+<!-- - **Novidades sobre planos de aula** e materiais exclusivos -->
+<!-- - **Tutoriais rápidos** em formato de stories e reels -->
+<!-- - **Inspiração pedagógica** diária -->
 
 ### 📘 Facebook – Planoteca Oficial
-**[Visite nossa página no Facebook](https://www.facebook.com/profile.php?id=61581144822767&sk=about)**  
-- **Atualizações da plataforma** e novos recursos
-- **Discussões educativas** com a comunidade
-- **Mensagens diretas** para suporte
-- **Eventos e lives** exclusivos para educadores
+**[Visite nossa página no Facebook](hhttps://www.facebook.com/planoteca.oficial/)**  
 
-## 📧 Newsletter Exclusiva para Educadores
+<!-- - **Atualizações da plataforma** e novos recursos -->
+<!-- - **Discussões educativas** com a comunidade -->
+<!-- - **Mensagens diretas** para suporte -->
+<!-- - **Eventos e lives** exclusivos para educadores -->
 
-### O que você recebe ao assinar:
-- **Novos planos de aula** e conteúdos exclusivos
-- **Dicas pedagógicas** e tutoriais práticos
-- **Promoções especiais** e atualizações da plataforma
-- **Conteúdo educacional** curado para sua realidade
+<!-- ## 📧 Newsletter Exclusiva para Educadores -->
 
-### Como assinar:
-- **Gratuitamente** através do formulário no site
-- **Cancelamento** a qualquer momento
-- **Frequência:** Envios semanais ou quinzenais
+<!-- ### O que você recebe ao assinar: -->
+<!-- - **Novos planos de aula** e conteúdos exclusivos -->
+<!-- - **Dicas pedagógicas** e tutoriais práticos -->
+<!-- - **Promoções especiais** e atualizações da plataforma -->
+<!-- - **Conteúdo educacional** curado para sua realidade -->
+
+<!-- ### Como assinar: -->
+<!-- - **Gratuitamente** através do formulário no site -->
+<!-- - **Cancelamento** a qualquer momento -->
+<!-- - **Frequência:** Envios semanais ou quinzenais -->
 
 ## Benefícios de Acompanhar a Planoteca nas Redes
 

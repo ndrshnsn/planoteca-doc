@@ -46,9 +46,8 @@ sitemap:
 social:
   name: "planoteca"
   links:
-    - "https://twitter.com/planoteca"
-    - "https://facebook.com/planoteca"
-    - "https://instagram.com/planoteca.oficial"
+    - "https://www.facebook.com/planoteca.oficial/"
+    - "https://www.instagram.com/planoteca.oficial"
 
 og_image: "assets/img/logo/doc-og-bg.png"
 
@@ -56,9 +55,8 @@ postcss:
   cache: false
 
 social_links:
-  - "https://twitter.com/planoteca"
-  - "https://facebook.com/planoteca"
-  - "https://instagram.com/planoteca.oficial"
+  - "https://www.facebook.com/planoteca.oficial/"
+  - "https://www.instagram.com/planoteca.oficial"
 
 search_enabled: true
 
