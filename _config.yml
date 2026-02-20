@@ -7,7 +7,6 @@ description: "A Planoteca é um marketplace onde educadores encontram e vendem p
 url: "https://doc.planoteca.com.br"
 baseurl: ""
 keywords: "planoteca plano-de-aula marketplace ajuda documentacao help knowledgebase faq suporte"
-twitter: planoteca
 support: suporte@planoteca.com.br
 repo: https://github.com/ndrshnsn/planoteca-doc
 github_user: ndrshnsn
@@ -64,9 +63,8 @@ organization:
   name: Planoteca
   logo: assets/img/logo/planoteca_doc.png
   sameAs:
-    - https://twitter.com/planoteca
-    - https://facebook.com/planoteca
-    - https://www.instagram.com/planoteca.oficial
+    - "https://www.facebook.com/planoteca.oficial/"
+    - "https://www.instagram.com/planoteca.oficial"
 
 exclude:
   - node_modules
