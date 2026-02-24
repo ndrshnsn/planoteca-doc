@@ -63,6 +63,8 @@
     url: "politicas/privacidade"
   - title: "Cookies"
     url: "politicas/cookies"
+  - title: "Taxas"
+    url: "politicas/taxas"
   - title: "Regras para compradores"
     url: "politicas/regras-compradores"
   - title: "Regras para vendedores"
