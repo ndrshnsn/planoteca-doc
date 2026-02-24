@@ -48,6 +48,16 @@ Esse valor foi definido para:
 
 ---
 
+## Descontos para Licenças Adicionais
+
+Além da definição do valor de venda, o vendedor pode configurar uma porcentagem de desconto para a compra de licenças adicionais.
+
+Esse desconto é definido por produto e pode ser configurado no momento da criação ou posteriormente, ao editar o produto.
+
+Essa funcionalidade permite que o educador incentive compras em maior volume, tornando o material mais acessível para instituições ou grupos, ao mesmo tempo em que mantém controle total sobre sua estratégia de precificação.
+
+---
+
 ## 🎓 Definição do preço: responsabilidade do educador
 
 O educador é totalmente responsável por definir o valor que considera justo pelo seu material.
