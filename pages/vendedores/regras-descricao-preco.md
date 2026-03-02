@@ -1,5 +1,5 @@
 ---
-title: Regras para Descrição, Preço e Imagens na Planoteca
+title: Regras para Descrição, Preço e Imagens
 description: Conheça as regras para descrição, preços e imagens dos planos de aula na Planoteca. Diretrizes para materiais atrativos e profissionais.
 permalink: /vendedores/regras-descricao-preco/
 ---

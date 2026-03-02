@@ -1,5 +1,5 @@
 ---
-title: Cancelamento de pedido na Planoteca – Política e procedimentos
+title: Cancelamento de Pedido
 description: Saiba como cancelar um pedido na Planoteca. Entenda as regras antes e depois do pagamento e como solicitar suporte quando necessário.
 permalink: /faq/cancelamento-pedido/
 ---

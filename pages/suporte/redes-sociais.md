@@ -1,5 +1,5 @@
 ---
-title: Redes Sociais da Planoteca – Conecte-se com a Comunidade
+title: Redes Sociais – Conecte-se com a Comunidade
 description: Siga a Planoteca nas redes sociais. Receba dicas educativas, novidades sobre planos de aula e suporte através do Instagram, Facebook e newsletter.
 permalink: /suporte/redes-sociais/
 ---

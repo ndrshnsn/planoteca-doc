@@ -1,5 +1,5 @@
 ---
-title: Como acessar comprovantes e notas fiscais na Planoteca
+title: Como acessar comprovantes e faturas
 description: Saiba onde encontrar e baixar comprovantes de compra e notas fiscais dos seus planos de aula adquiridos na Planoteca.
 permalink: /faq/comprovantes/
 ---

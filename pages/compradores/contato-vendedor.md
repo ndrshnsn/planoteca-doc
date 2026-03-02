@@ -1,5 +1,5 @@
 ---
-title: Como entrar em contato com o vendedor da Planoteca
+title: Como entrar em contato com o vendedor
 description: Saiba como falar diretamente com o vendedor de planos de aula na Planoteca. Tire dúvidas antes ou depois da compra de forma segura e rápida pela plataforma.
 permalink: /compradores/contato-vendedor/
 ---

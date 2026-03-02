@@ -1,5 +1,5 @@
 ---
-title: Como Gerenciar Pedidos na Planoteca – Acompanhe suas Vendas
+title: Como Gerenciar Pedidos
 description: Aprenda a visualizar e gerenciar pedidos recebidos na Planoteca. Controle total sobre suas vendas de planos de aula na plataforma.
 permalink: /vendedores/gerenciar-pedidos/
 ---

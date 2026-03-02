@@ -1,5 +1,5 @@
 ---
-title: Política de Devolução e Reembolso da Planoteca
+title: Política de Devolução e Reembolso
 description: Conheça as regras para devolução e reembolso na Planoteca. Entenda quando e como solicitar reembolso de planos de aula adquiridos.
 permalink: /politicas/devolucao-reembolso/
 ---

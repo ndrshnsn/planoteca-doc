@@ -1,5 +1,5 @@
 ---
-title: Criar conta na Planoteca – Guia rápido para educadores
+title: Criar conta na Plataforma
 description: Aprenda a criar sua conta de comprador na Planoteca em poucos passos. Cadastre-se com e-mail ou Google e comece a explorar planos de aula prontos.
 permalink: /compradores/criar-conta/
 ---

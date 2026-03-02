@@ -1,5 +1,5 @@
 ---
-title: Termos de Uso da Planoteca – Regras da Plataforma
+title: Termos de Uso
 description: Leia os Termos de Uso da Planoteca. Conheça as regras, responsabilidades e condições para uso da plataforma de planos de aula.
 permalink: /politicas/termos-uso/
 ---

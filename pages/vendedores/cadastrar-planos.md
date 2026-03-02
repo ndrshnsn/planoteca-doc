@@ -1,5 +1,5 @@
 ---
-title: Como Cadastrar Planos de Aula na Planoteca – Guia para Vendedores
+title: Como Cadastrar Planos de Aula
 description: Aprenda a cadastrar seus planos de aula na Planoteca. Guia completo com passo a passo para vendedores publicarem materiais educacionais com sucesso.
 permalink: /vendedores/cadastrar-planos/
 ---

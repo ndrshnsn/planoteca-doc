@@ -1,5 +1,5 @@
 ---
-title: Como Receber Pagamentos na Planoteca – Guia para Vendedores
+title: Como Receber Pagamentos
 description: Saiba como receber pagamentos pelos seus planos de aula na Planoteca. Processo seguro via Pix com recebimento direto e automático.
 permalink: /vendedores/receber-pagamentos/
 ---

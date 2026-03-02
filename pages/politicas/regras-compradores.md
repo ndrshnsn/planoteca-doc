@@ -1,5 +1,5 @@
 ---
-title: Regras para Compradores na Planoteca – Conduta e Diretrizes
+title: Regras para Compradores
 description: Conheça as regras e diretrizes para compradores na Planoteca. Saiba como utilizar a plataforma de forma segura e respeitosa.
 permalink: /politicas/regras-compradores/
 ---

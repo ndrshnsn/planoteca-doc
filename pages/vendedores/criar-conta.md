@@ -1,5 +1,5 @@
 ---
-title: Como Criar Conta de Vendedor na Planoteca – Ativar sua Loja
+title: Como Ativar sua Loja e Conta de Vendedor
 description: Aprenda a criar sua conta de vendedor na Planoteca. Guia rápido para ativar sua loja e começar a vender planos de aula online.
 permalink: /vendedores/criar-conta/
 ---

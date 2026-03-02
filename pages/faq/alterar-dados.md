@@ -1,5 +1,5 @@
 ---
-title: Como alterar dados pessoais na Planoteca – Guia completo
+title: Como alterar dados pessoais
 description: Aprenda a atualizar suas informações pessoais na Planoteca. Mantenha nome, e-mail, senha e dados de contato sempre atualizados para maior segurança.
 permalink: /faq/alterar-dados/
 ---

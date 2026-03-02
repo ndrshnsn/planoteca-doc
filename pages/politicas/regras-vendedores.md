@@ -1,5 +1,5 @@
 ---
-title: Regras para Vendedores na Planoteca – Diretrizes de Publicação
+title: Regras para Vendedores
 description: Conheça as regras para vendedores na Planoteca. Diretrizes para publicação de planos de aula, atendimento e conduta na plataforma.
 permalink: /politicas/regras-vendedores/
 ---

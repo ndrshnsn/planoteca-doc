@@ -1,5 +1,5 @@
 ---
-title: Canais de Atendimento da Planoteca – Suporte para Educadores
+title: Canais de Atendimento
 description: Conheça todos os canais de atendimento da Planoteca. Saiba como entrar em contato por e-mail, WhatsApp e outros meios para suporte rápido.
 permalink: /suporte/canais-de-atendimento/
 ---

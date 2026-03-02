@@ -1,5 +1,5 @@
 ---
-title: Como solicitar reembolso na Planoteca – Política e procedimentos
+title: Como solicitar reembolso
 description: Entenda como solicitar reembolso na Planoteca. Conheça prazos, condições e o passo a passo para devoluções seguras de planos de aula.
 permalink: /faq/solicitar-reembolso/
 ---

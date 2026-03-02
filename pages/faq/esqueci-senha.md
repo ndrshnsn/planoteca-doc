@@ -1,5 +1,5 @@
 ---
-title: Esqueci minha senha da Planoteca – Como recuperar o acesso
+title: Esqueci minha senha! Como recuperar o acesso
 description: Recupere o acesso à sua conta na Planoteca. Guia rápido para redefinir sua senha de forma segura e retomar suas atividades.
 permalink: /faq/esqueci-senha/
 ---

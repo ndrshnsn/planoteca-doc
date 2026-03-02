@@ -1,5 +1,5 @@
 ---
-title: Taxas e Condições de Uso da Plataforma
+title: Taxas e Condições de Uso
 description: Conheça o formato de aplicação das taxas da plataforma e entenda como funciona nosso modelo transparente para educadores e compradores.
 permalink: /politicas/taxas/
 ---

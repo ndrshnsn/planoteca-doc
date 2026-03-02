@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planoteca Doc – Central de Ajuda e Documentação
+title: Central de Ajuda e Documentação
 description: Central de ajuda da Planoteca. Encontre tutoriais, guias e respostas para dúvidas sobre como usar a plataforma de planos de aula como comprador ou vendedor.
 permalink: /
 breadcrumbs:

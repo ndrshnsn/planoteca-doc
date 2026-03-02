@@ -1,5 +1,5 @@
 ---
-title: Como navegar e buscar planos de aula na Planoteca
+title: Como navegar e buscar planos de aula
 description: Aprenda a usar a busca, filtros e categorias para encontrar o plano de aula ideal na Planoteca. Economize tempo e enriqueça sua prática pedagógica.
 permalink: /compradores/navegar-buscar/
 ---

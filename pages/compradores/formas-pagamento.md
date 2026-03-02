@@ -1,5 +1,5 @@
 ---
-title: Formas de pagamento na Planoteca – Pix exclusivo
+title: Formas de pagamento
 description: Conheça as formas de pagamento da Planoteca. Rápido, seguro e acessível para todos os educadores.
 permalink: /compradores/formas-pagamento/
 ---

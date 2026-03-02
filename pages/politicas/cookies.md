@@ -1,5 +1,5 @@
 ---
-title: Política de Cookies da Planoteca – Saiba como utilizamos cookies
+title: Política de Cookies
 description: Entenda como a Planoteca utiliza cookies para melhorar sua navegação, segurança e experiência na plataforma de planos de aula.
 permalink: /politicas/cookies/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Principais Benefícios da Planoteca para Educadores
+title: Principais Benefícios para Educadores
 description: Conheça os principais benefícios da Planoteca e descubra como ganhar tempo, acessar bons materiais e valorizar seu trabalho pedagógico.
 permalink: /a-planoteca/beneficios/
 ---

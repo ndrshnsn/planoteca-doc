@@ -1,5 +1,5 @@
 ---
-title: O que é a Planoteca | Marketplace de Planos de Aula
+title: Como funciona? | Marketplace de Planos de Aula
 description: Conheça a Planoteca, um marketplace onde educadores encontram, compartilham e vendem planos de aula e materiais pedagógicos.
 permalink: /a-planoteca/visao-geral/
 ---

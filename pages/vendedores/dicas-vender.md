@@ -1,5 +1,5 @@
 ---
-title: Dicas para Vender Mais na Planoteca – Melhores Práticas para Vendedores
+title: Dicas para Vender Mais
 description: Descubra as melhores práticas para vender mais planos de aula na Planoteca. Dicas de SEO, apresentação e atendimento para vendedores.
 permalink: /vendedores/dicas-vender/
 ---

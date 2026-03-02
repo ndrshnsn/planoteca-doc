@@ -1,5 +1,5 @@
 ---
-title: Acompanhar Pedidos na Planoteca
+title: Acompanhar Pedidos
 description: Saiba como acompanhar seus pedidos na Planoteca, acessar downloads e manter seus planos de aula sempre disponíveis.
 permalink: /compradores/acompanhar-pedidos/
 ---

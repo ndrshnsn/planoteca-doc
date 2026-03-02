@@ -1,5 +1,5 @@
 ---
-title: Política de Privacidade da Planoteca – Proteção de Dados
+title: Política de Privacidade
 description: Saiba como a Planoteca coleta, usa e protege seus dados pessoais. Conheça seus direitos conforme a LGPD em nossa plataforma de planos de aula.
 permalink: /politicas/privacidade/
 ---

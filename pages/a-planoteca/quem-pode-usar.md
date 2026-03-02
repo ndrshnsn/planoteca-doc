@@ -1,5 +1,5 @@
 ---
-title: Quem pode usar a Planoteca?  
+title: Quem pode usar a plataforma?  
 permalink: /a-planoteca/quem-pode-usar/
 ---
 
